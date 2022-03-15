@@ -1,4 +1,4 @@
-
+[Home](index.md) | [Cast](Cast.md) | [Collectibles](Collectibles.md)
 
 # StarGazers
 
